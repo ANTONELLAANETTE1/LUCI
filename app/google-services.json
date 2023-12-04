@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "929189970692",
+    "firebase_url": "https://luci-af651-default-rtdb.firebaseio.com",
+    "project_id": "luci-af651",
+    "storage_bucket": "luci-af651.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929189970692:android:54937b9c08ab52b7528651",
+        "android_client_info": {
+          "package_name": "com.example.luci"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdShNY49Eqt3sBbpYGyW4ry4-UDtoVmj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
